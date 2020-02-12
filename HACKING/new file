@@ -1,3 +1,5 @@
+Scan WEb
+
 bluto
 crt.sh
 google dork
@@ -5,3 +7,8 @@ wappalyzer
 haveibeenpawned
 whatweb 
 buitwith
+
+wireahrk 
+nmap -T4 -A -p- ip
+nmap -T4 TIP
+nmap -T4 -A -p53,80(portopen) ip
