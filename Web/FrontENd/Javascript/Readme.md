@@ -10,6 +10,21 @@ const isCool = true;\
 const x = null;\
 const y = undefined;\
 let z;\
+const number = new Array(1,2,3,4,5) or [1,2,3,4,5,'dd', true] \
+array tip .push to last element .unshift to first element .pop delete last element \
+.indexOf to find index \
 cantest with console.log(typeof variable)\
 Template String\
 console.log(`${variable}`)\
+\
+object\
+const person = {\
+	firstname = \
+	age : \
+	hooby :\
+	address : {\
+	city:\
+	town:\
+}\
+}\
+const {firstname lastname, address: {city}} = person Now yout can use first name lastname;\
