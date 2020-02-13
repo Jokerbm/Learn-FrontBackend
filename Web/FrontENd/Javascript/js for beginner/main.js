@@ -1,6 +1,3 @@
-// document.getElementById('my-form')
-// document.querySelector('h1')
+const ul = document.querySelector('.items')
 
-console.log(document.querySelectorAll('.item'))
-
-items.forEach(item) => console.log(item)
+ul.remove()
