@@ -28,3 +28,31 @@ const person = {\
 }\
 }\
 const {firstname lastname, address: {city}} = person Now yout can use first name lastname;\
+your can turn opject to JSON with stringitfy(variable)\
+\
+constructor function\
+function Person(a, b,c ){\
+	this.a = a;\
+	this.b = b;\
+	this.c = c;\
+	this.plue = function(){\
+	return a + b\
+}\
+}\
+const person1 = new Person(1, 2, ,3)\
+you can do a \
+person.prototype.plus = function(){\
+	return this.a + this.b\
+}\
+
+//class \
+class Person{
+	constructor(a, b, c){\
+	this.a = a;\
+	this.b = b;\
+	this.c = c;\
+}\
+plus(){\
+	return this.a + this.b\
+}\
+}\
