@@ -12,3 +12,16 @@ wireahrk
 nmap -T4 -A -p- ip
 nmap -T4 TIP
 nmap -T4 -A -p53,80(portopen) ip
+nmap script
+
+ - You can start Nessus Scanner by typing /etc/init.d/nessusd start
+ - Then go to https://parrot:8834/ to configure your scanner
+ 
+ msfconsole
+ serach portscan
+ use youcanuse andfindother 
+ info
+ options
+ 
+ nikto
+
