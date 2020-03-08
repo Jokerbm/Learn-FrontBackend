@@ -24,4 +24,8 @@ nmap script
  options
  
  nikto  
+ foxy proxy
+ burpsite
+ STEP
+ scan for information
 
