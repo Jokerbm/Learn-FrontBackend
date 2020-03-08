@@ -26,6 +26,7 @@ nmap script
  nikto  
  foxy proxy
  burpsite
+ netdiscover -r / -t
  STEP
  scan for information
 
