@@ -1,9 +1,9 @@
 {% extends 'base.html'%}
 {% block content %}
 
-<form method='POST'>
+<form action='/search' method='POST'>
 	<input type='text' name='title' placeholder="your title">
-<input type ='submit' value ='Save' />
+		<input type ='submit' value ='Save' />
 </form>
 
 {% endblock %}
